@@ -1,1 +1,0 @@
-alert("AUTH FILE WORKING");
