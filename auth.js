@@ -1,0 +1,1 @@
+alert("AUTH FILE WORKING");
